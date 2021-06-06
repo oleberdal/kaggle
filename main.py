@@ -7,7 +7,7 @@ INSERT DESCRIPTION HERE
 """
 import os
 
-from time import time, sleep
+from time import time
 from random import random, shuffle
 from json import loads
 
